@@ -1,0 +1,54 @@
+#float{
+  font-size: inherit;
+  position: absolute;
+  top: 0;
+  width: 8%;
+  left: 0;
+  height: 100%;
+
+
+}
+
+img {
+  max-width: 700%;
+  max-height: 700%;
+  float: left;
+  }
+
+.left{
+  float: left;
+}
+
+.row {
+  float: left;
+}
+
+#music{
+  max-width: 30%;
+  max-height: 30%;
+}
+
+#man{
+  max-width: 30%;
+  max-height: 30%;
+  float: right;
+}
+
+#money{
+  max-width: 30%;
+  max-height: 30%;
+  float: right;
+}
+
+#pr{
+  max-width: 30%;
+  max-height: 30%;
+  float: right;
+}
+.panel-body{
+
+  background-color: #BDF3CA88;
+}
+#girl{
+  background-color: #EBB7DB;
+}
